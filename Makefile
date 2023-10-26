@@ -15,3 +15,4 @@ dumpdecrypted.dylib: dumpdecrypted.o
 
 clean:
 	rm -f *.o dumpdecrypted.dylib
+	
